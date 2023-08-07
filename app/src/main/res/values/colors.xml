@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#f8f9fa</color>
+    <color name="nude">#FDCB98</color>
+
+    <!-->Cadres<-->
+    <color name="cadre1">#dc97ff</color>
+</resources>
