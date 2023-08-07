@@ -9,8 +9,8 @@ sudo apt-get install mysql-server
 ### Setup
 
 Import existing database
-  - `create database matrimony` 
-  - `sudo mysql -u root -p matrimony < /path/to/this/repo/matrimony.sql`
+  - `create database Andao` 
+  - `sudo mysql -u root -p andao < /path/to/this/repo/matrimony.sql`
 ### Start Server
 ```
 cd /path/to/app/directory
